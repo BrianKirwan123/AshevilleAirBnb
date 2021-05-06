@@ -1,0 +1,1 @@
+The goal of this map is to provide a simplification of available Airbnbs in and around Asheville, North Carolina. This information can be used by individuals aiming to visit the greater Asheville area and create an easier visualization of the location in which they are staying compared to the many attractions that Asheville has to offer.
